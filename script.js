@@ -2,7 +2,7 @@ let selectMenu = document.querySelectorAll('select');
 let setAlarmbtn = document.querySelectorAll('button')[0]
 let alarmTime;
 let alarmDisplay = document.getElementById("alarmDisplay")
-let ringtone = new Audio ("/alarm.mp3");
+let ringtone = new Audio ("alarm.mp3");
 
 //for hour
 for (i = 12; i > 0; i--) {
