@@ -9,7 +9,7 @@
     min-height: 100vh;
     min-width: 100vw;
     background-color: rgba(56, 115, 242, 0.943);
-    background-image: url("/alarm3.svg");
+    background-image: url("alarm3.svg");
     background-repeat:repeat;
 }
 
